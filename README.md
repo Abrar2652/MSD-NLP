@@ -1,0 +1,1 @@
+Eight NLP models are evaluated, combining pre-trained transformers, cosine similarity, and distance metrics to categorize factors into personal, biomechanical, workplace, psychological, and organizational classes. BERT with cosine similarity achieves 28% accuracy; sentence transformer with Euclidean, Bray-Curtis, and Minkowski distances scores 100%.
